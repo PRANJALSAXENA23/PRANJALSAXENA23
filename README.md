@@ -1,7 +1,8 @@
 - 👋 Hi, I’m PRANJAL SAXENA
 - 👀 I’m interested in web development
 
-https://holopin.io/@pranjal_23)
+[![@pranjal_23's Holopin board](https://holopin.me/pranjal_23)](https://holopin.io/@pranjal_23)
+
 .
 
 
